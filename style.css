@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 500px;
+    background-color: rgb(204, 161, 233);
+}
+#circle {
+    height: 300px;
+    width: 400px;
+    border: 1px solid;
+    background-color: rgb(147, 166, 223);
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    color: red;
+    font-size: 25px;
+    box-shadow: 0px 0px 5px 8px;
+}
